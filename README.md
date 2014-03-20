@@ -1,0 +1,1 @@
+A data compressor/decompressor tool that I built in my Data Structures course at the University of Maine. The main intent was to make use of Huffman Trees as a core data structure in the project.
